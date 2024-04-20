@@ -1,0 +1,1 @@
+﻿{"unitName":"调兵丸","weaponDescriptions":["12.7mm Guns"],"namesInClass":["调兵丸","御影丸","靖国丸","东海丸","观光丸","六甲丸","两岛丸","昭元丸","云海丸"],"instancesInClass":["Tyohei Maru","Mikage Maru","Yasukuni Maru","Tokai Maru","Kanko Maru","Roko Maru","Ryoto Maru","Syogen Maru","Unkai Maru"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"明石丸","weaponDescriptions":["12.7mm Guns"],"namesInClass":["明石丸","大秀丸","恩代丸","建国丸","切叶丸","桃叶丸","日光丸","昭英丸"],"instancesInClass":["Akasi Maru","Daisyu Maru","Endai Maru","Kenkoku Maru","Kiriha Maru","Momoha Maru","Nikko Maru","Syoei Maru"]}

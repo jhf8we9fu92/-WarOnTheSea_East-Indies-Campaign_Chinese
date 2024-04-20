@@ -1,0 +1,1 @@
+{"unitName":"艾萨克·斯韦尔斯","weaponDescriptions":["40mm Bofors Guns","12.7mm Guns"],"namesInClass":["艾萨克·斯韦尔斯"],"instancesInClass":["isaacsweers"]}﻿﻿

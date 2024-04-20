@@ -1,0 +1,1 @@
+﻿{"unitName":"W-13型","weaponDescriptions":["13mm Guns"],"namesInClass":["W-13 No.13","W-13 No.14","W-13 No.15","W-13 No.16","W-13 No.17","W-13 No.18"],"instancesInClass":["w-13 no.13","w-13 no.14","w-13 no.15","w-13 no.16","w-13 no.17","w-13 no.18"]}

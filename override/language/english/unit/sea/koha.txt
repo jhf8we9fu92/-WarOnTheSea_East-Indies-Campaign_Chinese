@@ -1,0 +1,1 @@
+﻿{"unitName":"甲标的甲型","weaponDescriptions":[],"namesInClass":["HA-2","HA-3","HA-4","HA-5","HA-6","HA-7"],"instancesInClass":["HA-2","HA-3","HA-4","HA-5","HA-6","HA-7"]}

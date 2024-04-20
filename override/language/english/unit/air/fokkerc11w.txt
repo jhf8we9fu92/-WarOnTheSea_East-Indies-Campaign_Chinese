@@ -1,0 +1,1 @@
+﻿{"unitName":"福克C.XI-W","weaponDescriptions":["Guns|1x 7.9mm FN勃朗宁机枪","|1x 7.9mm FN勃朗宁机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

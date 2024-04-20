@@ -1,0 +1,1 @@
+﻿{"unitName":"扬·范·阿姆斯特尔","weaponDescriptions":["40mm Vickers PomPom","12.7mm Guns"],"namesInClass":["亚伯拉罕·克里恩森"],"instancesInClass":["Abraham Crijnssen"]}

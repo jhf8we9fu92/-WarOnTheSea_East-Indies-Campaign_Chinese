@@ -1,0 +1,1 @@
+﻿{"nextAction":"SUMMARY","header":"荷属东印度群岛战役 - ABDACOM（美英荷澳司令部）防御行动","content":"<size=18><b>1942 年 2 月 1 日</b></size>\n只有美国-英国-荷兰-澳大利亚东印度群岛司令部英美荷澳舰队司令康拉德·赫尔弗里希中将挡住了他们的路。","imagePath":"campaign/image/intro1.jpg"}

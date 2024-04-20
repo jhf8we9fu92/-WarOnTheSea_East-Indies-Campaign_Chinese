@@ -1,0 +1,1 @@
+﻿{"unitName":"部族","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["阿龙塔","瓦拉孟加","库奈"],"instancesInClass":["Arunta","Warramunga","Bataan"]}

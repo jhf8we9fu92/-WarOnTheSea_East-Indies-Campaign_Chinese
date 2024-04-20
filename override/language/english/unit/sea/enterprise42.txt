@@ -1,0 +1,1 @@
+﻿{"unitName":"企业","weaponDescriptions":["40mm PomPoms","20mm Cannons","12.7mm Guns"],"namesInClass":["企业"],"instancesInClass":["enterprise"]}

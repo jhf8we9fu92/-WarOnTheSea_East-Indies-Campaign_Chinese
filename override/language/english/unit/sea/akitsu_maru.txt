@@ -1,0 +1,1 @@
+﻿{"unitName":"丙型特种船","weaponDescriptions":[],"namesInClass":["秋津丸"],"instancesInClass":["Akitsu Maru"]}

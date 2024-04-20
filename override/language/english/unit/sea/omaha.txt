@@ -1,0 +1,1 @@
+﻿{"unitName":"奥马哈","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["马布尔黑德"],"instancesInClass":["marblehead"]}

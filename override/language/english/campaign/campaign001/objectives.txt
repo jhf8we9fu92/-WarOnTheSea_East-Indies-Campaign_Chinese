@@ -1,0 +1,30 @@
+﻿
+<b><size=18>瞭望塔行动</size></b>
+
+<b>1942年 八月 7日</b>
+情报显示敌军已登陆 <color=#caa809>瓜达尔卡纳尔</color> 并开始建设机场。
+一旦建设完成，远程轰炸机将可以随意攻击盟军在美国和澳大利亚之间的补给线，并为日本帝国海军在更远的南方行动提供空中掩护。
+
+你的命令是以 <color=#caa809>新赫布里底群岛</color> 为前线基地，夺回 <color=#caa809>瓜达尔卡纳尔</color>，并在那里建立一个大型机场并清除邻近岛屿上的任何敌军。
+
+
+你必须：
+
+1) 在 <color=#caa809>瓜达尔卡纳尔</color> 建造一个 5 级机场。
+
+2) 夺取控制：
+   - <color=#caa809>瓜达尔卡纳尔</color>
+   - <color=#caa809>佛罗里达群岛</color>
+
+3) 保持控制：
+   - <color=#caa809>莫尔斯比港</color>
+   - <color=#caa809>米尔恩湾</color>
+   - <color=#caa809>拉纳尔岛</color>
+   - <color=#caa809>圣克鲁斯群岛</color>
+   - <color=#caa809>马莱塔</color>
+
+- 每艘船只补充弹药需要 10 <color=#ca0909>燃料</color> 和 5 <color=#e8e120>工程器械</color> 以及 50 <color=#50ca09>补给</color>；
+- 每只舰队补充飞机需要 2 <color=#ca0909>燃料</color> 和 2 <color=#e8e120>工程器械</color> 以及 10 <color=#50ca09>补给</color>；
+- 机场补充飞机需要 2 <color=#ca0909>燃料</color> 和 2 <color=#e8e120>工程器械</color> 以及 10 <color=#50ca09>补给</color>；
+- 货轮和油轮以每批 10 单位卸载 <color=#ca0909>燃料</color>/<color=#e8e120>工程器械</color>；
+- 确保基地拥有补给、工程器械和燃料以支持补充飞机。

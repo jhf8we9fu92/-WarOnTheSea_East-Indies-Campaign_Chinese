@@ -1,0 +1,1 @@
+﻿{"nextAction":"SUMMARY","header":"失败","content":"<size=18><b><DATE></b></size>\n敌军的兵力和物资补给使盟军得以在东印度群岛维持其存在，这对日本在该地区的行动来说是一个沉重打击，他们被不断反攻的盟军部队推回东部。一旦欧洲战事结束，盟军是否会尝试在太平洋进行更多的进攻行动，亦或我们与美国能达成和平协议，尚待观察...","imagePath":"campaign/image/defeat_j.jpg","musicIndex":13}

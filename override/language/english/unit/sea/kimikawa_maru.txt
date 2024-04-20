@@ -1,0 +1,1 @@
+﻿{"unitName":"君川丸","weaponDescriptions":[],"namesInClass":["君川丸","清川丸","国川丸","广川丸"],"instancesInClass":["kimikawa maru","kiyokawa maru","kunikawa maru","hirokawa maru"]}

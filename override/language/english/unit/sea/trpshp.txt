@@ -1,0 +1,1 @@
+﻿{"unitName":"运兵船","weaponDescriptions":["12.7mm Guns"],"namesInClass":["邓特伦","卡通巴","塔罗纳"],"instancesInClass":["Duntroon","Katoomba","Taroona"]}

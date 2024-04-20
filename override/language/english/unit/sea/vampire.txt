@@ -1,0 +1,1 @@
+﻿{"unitName":"海军部V","weaponDescriptions":["40mm Vickers Guns","20mm Oerlikon Guns"],"namesInClass":["吸血鬼","仇杀"],"instancesInClass":["Vampire","Vendetta"]}

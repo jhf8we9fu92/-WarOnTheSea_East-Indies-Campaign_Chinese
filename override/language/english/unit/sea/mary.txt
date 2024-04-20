@@ -1,0 +1,1 @@
+﻿{"unitName":"T1型","weaponDescriptions":[],"namesInClass":["梅塔维","帕斯科坦克","萨卡通奇","西康克","塞卡奇","沃托加","阿蒙努苏克","石普斯科特","卡勒莫斯","奇沃库姆"],"instancesInClass":["Mettawee","Pasquotank","Sakatonchee","Seekonk","Sequatchie","Wautauga","Ammonusuc","Sheepscot","Calamus","Chiwaukum"]}

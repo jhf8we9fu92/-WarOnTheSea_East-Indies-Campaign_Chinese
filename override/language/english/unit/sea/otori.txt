@@ -1,0 +1,1 @@
+﻿{"unitName":"鸿","weaponDescriptions":["13.2mm Guns"],"namesInClass":["鸿","鹎","隼","鹊","雉","雁","鹭","鸠"],"instancesInClass":["Ōtori","Hiyodori","Hayabusa","Kasasagi","Kiji","Kari","Sagi","Hato"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"古鹰","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["古鹰","加古","吉成","长义"],"instancesInClass":["furutaka","kako","yoshinari","nagayoshi"]}

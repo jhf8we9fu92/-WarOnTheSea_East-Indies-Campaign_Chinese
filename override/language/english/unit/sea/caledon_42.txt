@@ -1,0 +1,1 @@
+﻿{"unitName":"卡利登","weaponDescriptions":["2pdr QF","20mm Oerlikon"],"namesInClass":["卡利登","卡拉多克","科伦坡","开普敦"],"instancesInClass":["caledon","caradoc","colombo","capetown"]}

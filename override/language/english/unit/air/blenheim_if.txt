@@ -1,0 +1,1 @@
+﻿{"unitName":"布伦海姆 Mk.IF","weaponDescriptions":["Guns|5x 7.7mm 勃朗宁机枪","|2x 7.7mm 勃朗宁机枪（自卫）"],"payloadDisplayNames":["无"],"payloadIndexes":["0"],"endurance":[1]}

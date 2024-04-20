@@ -1,0 +1,1 @@
+﻿{"unitName":"机雷潜型","weaponDescriptions":["Type 96 25mm Guns"],"namesInClass":["伊-121","伊-122","伊-123","伊-124"],"instancesInClass":["I-121","I-122","I-123","I-124"]}

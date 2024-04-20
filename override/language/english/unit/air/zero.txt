@@ -1,0 +1,1 @@
+﻿{"unitName":"A6M 零战","weaponDescriptions":["Guns|2x 20mm 九九式机炮","|2x 九七式机枪","|","Payloads|jp_300l_centerdt_early_zero"],"payloadDisplayNames":["副油箱","无"],"payloadIndexes":["0","1"],"endurance":[1.6,1]}

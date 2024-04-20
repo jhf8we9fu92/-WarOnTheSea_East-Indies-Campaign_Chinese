@@ -1,0 +1,1 @@
+﻿{"unitName":"阿莫拉","weaponDescriptions":[],"namesInClass":["阿莫拉","布里达","瓦拉伦","吉巴达克","萨兰德"],"instancesInClass":["Armora","Blitar","Vaalaren","Tjibadak","Salland"]}

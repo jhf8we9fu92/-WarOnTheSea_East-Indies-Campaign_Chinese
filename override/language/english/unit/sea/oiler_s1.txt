@@ -1,0 +1,1 @@
+﻿{"unitName":"S1油轮","weaponDescriptions":["12.7mm Guns"],"namesInClass":["弗兰德里亚","佩特拉","巴克伊森","阿纳斯塔西娅","爱丽丝"],"instancesInClass":["Flandria","Petra","Backuysen","Anastasia","Alice"]}

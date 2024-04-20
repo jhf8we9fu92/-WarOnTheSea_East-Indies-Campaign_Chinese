@@ -1,0 +1,1 @@
+﻿{"unitName":"范·盖伦","weaponDescriptions":["40mm Vickers PomPom","12.7mm Guns"],"namesInClass":["维特·德·维兹","班克特","范·内斯"],"instancesInClass":["witte_de_with","banckert","van_nes"]}

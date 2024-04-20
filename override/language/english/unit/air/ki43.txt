@@ -1,0 +1,1 @@
+﻿{"unitName":"Ki-43 一式战“隼”","weaponDescriptions":["Guns|2x 7.7mm 八九式机枪","|","Payloads|jp_150l_wingdt_zero"],"payloadDisplayNames":["副油箱","无"],"payloadIndexes":["0","1"],"endurance":[1.6,1]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"利安德（1942）","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["霍巴特","珀斯"],"instancesInClass":["hobart","perth"]}

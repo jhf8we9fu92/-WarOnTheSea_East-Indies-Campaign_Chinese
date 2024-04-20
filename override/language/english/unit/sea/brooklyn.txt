@@ -1,0 +1,1 @@
+﻿{"unitName":"布鲁克林","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["博伊西"],"instancesInClass":["boise"]}

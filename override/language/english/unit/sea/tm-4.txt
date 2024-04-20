@@ -1,0 +1,1 @@
+﻿{"unitName":"TM-4","weaponDescriptions":["12.7mm Guns"],"namesInClass":["TM-4","TM-5","TM-6","TM-7","TM-8","TM-9","TM-10","TM-11","TM-12","TM-13","TM-14","TM-15","TM-16","TM-17","TM-18","TM-19","TM-20","TM-21"],"instancesInClass":["TM-4","TM-5","TM-6","TM-7","TM-8","TM-9","TM-10","TM-11","TM-12","TM-13","TM-14","TM-15","TM-16","TM-17","TM-18","TM-19","TM-20","TM-21"]}

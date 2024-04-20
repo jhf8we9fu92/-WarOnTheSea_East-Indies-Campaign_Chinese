@@ -1,0 +1,1 @@
+﻿{"unitName":"加茂井丸","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["加茂井丸","山宫丸","大武丸","若决丸"],"instancesInClass":["Kamoi Maru","Yamamiya Maru","Daibu Maru","Jokuja Maru"]}

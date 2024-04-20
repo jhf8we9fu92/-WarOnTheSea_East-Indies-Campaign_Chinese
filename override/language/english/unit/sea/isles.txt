@@ -1,0 +1,1 @@
+﻿{"unitName":"群岛","weaponDescriptions":["12.7mm Guns"],"namesInClass":["科平赛岛","阿伦岛","巴尔塔岛","布罗拉","坎布雷岛","霍萨岛","法拉岛","霍伊岛","弗洛塔岛","罗纳德赛岛"],"instancesInClass":["Copinsay","Arran","Balta","Brora","Cumbrae","Hoxa","Fara","Hoy","Flotta","Ronaldsay"]}

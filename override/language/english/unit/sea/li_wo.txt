@@ -1,0 +1,1 @@
+﻿{"unitName":"利沃","weaponDescriptions":["13.2mm Guns"],"namesInClass":["利沃","福沃"],"instancesInClass":["Li Wo","Fu Wo"]}

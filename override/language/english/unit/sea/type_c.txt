@@ -1,0 +1,1 @@
+﻿{"unitName":"巡潜丙型","weaponDescriptions":[],"namesInClass":["伊-16","伊-18","伊-20"],"instancesInClass":["I-16","I-18","I-20"]}

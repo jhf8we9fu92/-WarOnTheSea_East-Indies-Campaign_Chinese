@@ -1,0 +1,1 @@
+﻿{"unitName":"上川丸","weaponDescriptions":[],"namesInClass":["上川丸"],"instancesInClass":["kamikawa maru"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"香取","weaponDescriptions":["13.2mm Guns"],"namesInClass":["香取","鹿岛","香椎"],"instancesInClass":["Katori","Kashii","Kashima"]}

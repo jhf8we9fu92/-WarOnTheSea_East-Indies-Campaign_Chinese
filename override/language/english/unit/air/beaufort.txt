@@ -1,0 +1,1 @@
+﻿{"unitName":"波弗特 Mk.I","weaponDescriptions":["Guns|4x 7.7mm 勃朗宁机枪","|","Payloads|torpedo_18inMkXII","|bomb_us_1600lb_ap","|bomb_us_1000lb","|bomb_us_500lb"],"payloadDisplayNames":["1x 鱼雷","1x 1600磅穿甲炸弹","1x 1000磅, 2x 500磅高爆炸弹","无"],"payloadIndexes":["0","1","2","3"],"endurance":[0.6,0.6,0.5,0.1]}  

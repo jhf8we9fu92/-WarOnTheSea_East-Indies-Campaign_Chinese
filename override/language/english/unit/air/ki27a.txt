@@ -1,0 +1,1 @@
+﻿{"unitName":"Ki-27a 九七舰战甲型","weaponDescriptions":["Guns|2x 7.7mm 八九式机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

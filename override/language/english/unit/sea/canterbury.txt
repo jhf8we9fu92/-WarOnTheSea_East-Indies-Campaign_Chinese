@@ -1,0 +1,1 @@
+﻿{"unitName":"奥兰耶","weaponDescriptions":["12.7mm Guns"],"namesInClass":["奥兰耶","克利普丰丹","福伦丹","克林森","梅泽克","新荷兰","赞丹"],"instancesInClass":["Oranje","Klipfontein","Volendam","Crijnssen","Maetsuycker","Niew Holland","Zaandam"]}

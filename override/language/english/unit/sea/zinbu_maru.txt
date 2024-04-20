@@ -1,0 +1,1 @@
+﻿{"unitName":"振武丸","weaponDescriptions":["12.7mm Guns"],"namesInClass":["振武丸","岬丸","永安丸","金华山丸","春生丸","若津丸"],"instancesInClass":["Zinbu Maru","Misaki Maru","Eian Maru","Kinkasan Maru","Syunsei Maru","Wakatu Maru"]}

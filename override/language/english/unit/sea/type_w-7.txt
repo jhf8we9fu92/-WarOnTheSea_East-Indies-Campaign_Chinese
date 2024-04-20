@@ -1,0 +1,1 @@
+﻿{"unitName":"W-7型","weaponDescriptions":["13mm Guns"],"namesInClass":["W-7 No.7","W-7 No.8","W-7 No.9","W-7 No.10","W-7 No.11","W-7 No.12"],"instancesInClass":["w-7 no.7","w-7 no.8","w-7 no.9","w-7 no.10","w-7 no.11","w-7 no.12"]}

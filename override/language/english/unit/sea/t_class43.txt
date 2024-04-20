@@ -1,0 +1,1 @@
+﻿{"unitName":"T级第二组","weaponDescriptions":["20mm Oerlikon Cannon",".303 Machine Guns"],"namesInClass":["可靠"],"instancesInClass":["Trusty"]}

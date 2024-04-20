@@ -1,0 +1,1 @@
+﻿{"unitName":"M1运输船","weaponDescriptions":["12.7mm Guns"],"namesInClass":["海洋之胜","砂星","斯坎蒂克","飞利浦·沃沃曼"],"instancesInClass":["Ocean Victory","Sand Star","Scantic","Phillips Wouwerman"]}

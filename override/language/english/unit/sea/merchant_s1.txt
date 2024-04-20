@@ -1,0 +1,1 @@
+﻿{"unitName":"S1货轮","weaponDescriptions":["Guns|13.5mm Guns","|Troops 275","|Supplies 500","|Engineering 35"],"namesInClass":["涅普图纳","宁宾","库拉玛","乌玛拉"],"instancesInClass":["Neptuna","Nimbin","Koolama","Ulmarra"]}

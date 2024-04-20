@@ -1,0 +1,1 @@
+﻿{"unitName":"小型荷兰运输船","weaponDescriptions":["12.7mm Guns"],"namesInClass":["班塔姆","内堤","布里达","布莱达","雅帕拉","卡西克","梅泽克","雅各布","苏斯特伯格"],"instancesInClass":["Bantam","Binnendijk","Blitar","Breda","Japara","Karsik","Maetsuycker","Jacob","Soesterberg"]}

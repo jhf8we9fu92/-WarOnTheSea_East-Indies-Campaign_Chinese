@@ -1,0 +1,1 @@
+﻿{"unitName":"福克T.IVa","weaponDescriptions":["Guns|3x 7.9mm FN勃朗宁机枪","|","Payloads|torpedo_18inMkXII","|bomb_nl_200kg","|bomb_nl_300kg","|bomb_nl_300kg_sap","|depthbomb_mark17"],"payloadDisplayNames":["1x 鱼雷","4x 200千克高爆炸弹","2x 300千克高爆炸弹","2x 300千克半穿甲炸弹","3x 深水炸弹","无"],"payloadIndexes":["0","1","2","3","4","5"],"endurance":[0.75,0.75,0.8,0.8,0.75,1.0]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"莫伊甘农","weaponDescriptions":[],"namesInClass":["莫伊甘农","布雷达","扬·彼特松·科恩","康拉德斯特拉特","巴伦茨","扬·马延"],"instancesInClass":["Moygannon","Breda","Jan Pieterszoon Coen","Conradstraat","Barentsz","Jan Mayen"]}

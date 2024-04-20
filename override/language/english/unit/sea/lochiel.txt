@@ -1,0 +1,1 @@
+﻿{"unitName":"洛希尔","weaponDescriptions":[],"namesInClass":["洛希尔","勃艮第","彭格里普","佩德纳莱斯","卡滕德雷赫特","兰吉蒂基","兰吉塔塔","朗吉塔内"],"instancesInClass":["Lochiel","Burgondier","Pengreep","Pedernales","Katendrecht","Rangitiki","Rangitata","Rangitane"]}

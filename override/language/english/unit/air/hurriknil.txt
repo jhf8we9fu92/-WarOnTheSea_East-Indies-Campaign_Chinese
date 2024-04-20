@@ -1,0 +1,1 @@
+﻿{"unitName":"飓风 KNIL","weaponDescriptions":["Guns|12x 7.7mm 勃朗宁机枪","|","Payloads|uk_150l_wingdt","|bomb_uk_500lb_sap","|bomb_us_250lb","|bomb_uk_250lb_sap"],"payloadDisplayNames":["副油箱","2x 500磅半穿甲炸弹","2x 250磅高爆炸弹","2x 250磅半穿甲炸弹","无"],"payloadIndexes":["0","1","2","3","4"],"endurance":[1.6,0.4,0.6,0.6,1.0]}

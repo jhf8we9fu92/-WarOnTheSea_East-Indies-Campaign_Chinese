@@ -1,0 +1,1 @@
+{"unitName":"巴瑟斯特","weaponDescriptions":["40mm Bofors Gun","20mm Oerlikon Guns"],"namesInClass":["阿米代尔","巴拉瑞特","本迪戈","伯尼","德洛兰","古尔本","卡通巴","利斯戈","马里伯勒","图文巴","瓦南布尔","沃灵贡","巴瑟斯特","利斯莫尔"],"instancesInClass":["Armidale","Ballarat","Bendigo","Burnie","Deloraine","Goulburn","Katoomba","Lithgow","Maryborough","Toowoomba","Warrnambool","Wollongong","Bathurst","Lismore"]}

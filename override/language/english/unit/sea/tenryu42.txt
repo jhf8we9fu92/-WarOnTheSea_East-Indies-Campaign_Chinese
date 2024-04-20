@@ -1,0 +1,1 @@
+﻿{"unitName":"天龙（1942）","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["天龙","龙田"],"instancesInClass":["tenryu","tatsuta"]}

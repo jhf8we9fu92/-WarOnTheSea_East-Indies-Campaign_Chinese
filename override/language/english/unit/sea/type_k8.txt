@@ -1,0 +1,1 @@
+﻿{"unitName":"CH-13","weaponDescriptions":["13.2mm Guns"],"namesInClass":["CH-13","CH-14","CH-15","CH-16","CH-17","CH-18","CH-19","CH-20","CH-23","CH-24","CH-25","CH-26","CH-27","CH-28","CH-29","CH-30"],"instancesInClass":["CH-13","CH-14","CH-15","CH-16","CH-17","CH-18","CH-19","CH-20","CH-23","CH-24","CH-25","CH-26","CH-27","CH-28","CH-29","CH-30"]}

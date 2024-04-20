@@ -1,0 +1,1 @@
+﻿{"unitName":"爱国丸","weaponDescriptions":["Type 93 13.2mm Guns"],"namesInClass":["爱国丸","报国丸","护国丸","粟田丸"],"instancesInClass":["Aikoku Maru","Hōkoku Maru","Gokoku Maru","Awata Maru"]}

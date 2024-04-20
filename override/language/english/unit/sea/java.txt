@@ -1,0 +1,1 @@
+﻿{"unitName":"爪哇","weaponDescriptions":["40mm Bofors Guns","12.7mm Guns"],"namesInClass":["爪哇","苏门答腊"],"instancesInClass":["java","sumatra"]}

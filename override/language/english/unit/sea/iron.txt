@@ -1,0 +1,1 @@
+﻿{"unitName":"SS 钢铁","weaponDescriptions":["20mm Oerlikon Guns"],"namesInClass":["钢铁骑士","钢铁男爵","钢铁国王","钢铁队长"],"instancesInClass":["Iron Knight","Iron Baron","Iron King","Iron Cheiftain"]}

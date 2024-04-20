@@ -1,0 +1,1 @@
+﻿{"unitName":"海中5/6型","weaponDescriptions":["Type 96 25mm Guns"],"namesInClass":["吕-29","吕-30","吕-31","吕-32","吕-33","吕-34"],"instancesInClass":["Ro-29","Ro-30","Ro-31","Ro-32","Ro-33","Ro-34"]}

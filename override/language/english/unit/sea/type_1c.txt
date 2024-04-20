@@ -1,0 +1,1 @@
+﻿{"unitName":"黑龙丸","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["黑龙丸","金刚丸","浅间丸","秩父丸","关西丸","青松丸","富山丸","江之岛丸","永久丸","英久丸"],"instancesInClass":["Kokuryu Maru","Kongo Maru","Asama Maru","Chichibu Maru","Kansai Maru","Seisho Maru","Toyama Maru","Enoshima Maru","Eijyo Maru","Eikyu Maru"]}

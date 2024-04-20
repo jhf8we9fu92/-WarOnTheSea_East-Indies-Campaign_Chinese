@@ -1,0 +1,1 @@
+﻿{"unitName":"M2货轮","weaponDescriptions":["20mm Guns"],"namesInClass":["施塔德·斯希丹","塔斯曼","范·亨斯科克","范·赫茨"],"instancesInClass":["Stad Schiedam","Tasman","Van Heemskerk","Van Heutsz"]}

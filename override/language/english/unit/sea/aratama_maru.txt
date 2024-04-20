@@ -1,0 +1,1 @@
+{"unitName":"新玉丸","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["新玉丸","尾上丸","常陆丸","立掛丸"],"instancesInClass":["Aratama Maru","Onoe Maru","Hitachi Maru","Tatsukake Maru"]}

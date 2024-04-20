@@ -1,0 +1,1 @@
+{"unitName":"海军部S","weaponDescriptions":["40mm Bofors Guns"],"namesInClass":["萨尼特","侦察兵"],"instancesInClass":["thanet","scout"]}﻿﻿

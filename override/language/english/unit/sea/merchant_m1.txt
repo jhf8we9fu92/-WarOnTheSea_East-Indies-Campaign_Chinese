@@ -1,0 +1,1 @@
+﻿{"unitName":"M1货轮","weaponDescriptions":["Guns|13.5mm Guns","|Troops 275","|Supplies 500","|Engineering 35"],"namesInClass":["阿纳德尔","阿布基尔","英国首相","英国军士","贝阿图斯","布莱尔斯佩","英国领事","多佛山","尼莉莎"],"instancesInClass":["Anadyr","Abukir","British Premier","British Sergeant","Beatus","Blairspey","British Consul","Dover Hill","Nerissa"]}

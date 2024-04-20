@@ -1,0 +1,1 @@
+﻿{"nextAction":"intro1","header":"荷属东印度群岛战役 - ABDACOM（美英荷澳司令部）防御行动","content":"<size=18><b>1942 年 2 月 1 日</b></size>\n日本帝国为了获取急需的资源扩展西部疆域，将入侵马来半岛并最终进攻爪哇。随后进行的两栖部队的陆海战斗，是你扭转乾坤的机会。","imagePath":"campaign/image/java.jpg"}

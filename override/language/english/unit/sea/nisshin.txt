@@ -1,0 +1,1 @@
+﻿{"unitName":"瑞穗","weaponDescriptions":[],"namesInClass":["瑞穗"],"instancesInClass":["Mizuho"]}

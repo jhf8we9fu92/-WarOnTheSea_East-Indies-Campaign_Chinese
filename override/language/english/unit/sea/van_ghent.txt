@@ -1,0 +1,1 @@
+﻿{"unitName":"范·根特","weaponDescriptions":["12.7mm Guns"],"namesInClass":["范·根特","埃弗特森","科特纳尔","皮特·海因"],"instancesInClass":["van_ghent","evertsen","kortenaer","piet_hein"]}

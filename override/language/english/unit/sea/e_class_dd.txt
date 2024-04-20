@@ -1,0 +1,1 @@
+{"unitName":"E & F","weaponDescriptions":["20mm Oerlikon"],"namesInClass":["电气","遭遇","快速"],"instancesInClass":["Electra","Encounter","Express"]}﻿﻿

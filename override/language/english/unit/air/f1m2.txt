@@ -1,0 +1,1 @@
+﻿{"unitName":"F1M2 零式水观一一型","weaponDescriptions":["Guns|2x 7.7mm 九七式机枪","|1x 7.7mm 九二式机枪","|","Payloads|bomb_ij_60kg","|jp_60dc"],"payloadDisplayNames":["2x 60千克高爆炸弹","2x 深水炸弹","无"],"payloadIndexes":["0","1","2"],"endurance":[0.8,0.9,1]}

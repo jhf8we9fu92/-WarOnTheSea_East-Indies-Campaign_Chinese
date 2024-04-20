@@ -1,0 +1,1 @@
+{"unitName":"弗洛雷斯","weaponDescriptions":["12.7mm Guns"],"namesInClass":["弗洛雷斯","索姆巴"],"instancesInClass":["flores","soemba"]}﻿﻿

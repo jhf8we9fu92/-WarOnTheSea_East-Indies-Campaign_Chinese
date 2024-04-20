@@ -1,0 +1,1 @@
+﻿{"unitName":"田凫","weaponDescriptions":["Machine Guns"],"namesInClass":["三声夜鹰","鹌鹑","百灵","苍鹭"],"instancesInClass":["whippoorwill","quail","lark","heron"]}

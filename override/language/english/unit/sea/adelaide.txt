@@ -1,0 +1,1 @@
+﻿{"unitName":"阿德莱德","weaponDescriptions":["20mm Oerlikon Guns"],"namesInClass":["阿德莱德"],"instancesInClass":["adelaide"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"大阪丸","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["大阪丸","明石丸","男鹿山丸","大津山丸"],"instancesInClass":["Osaka Maru","Akashi Maru","Ojikasan Maru","Ohtsusan Maru"]}

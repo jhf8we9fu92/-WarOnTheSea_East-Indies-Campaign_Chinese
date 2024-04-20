@@ -1,0 +1,1 @@
+﻿{"unitName":"笠置山丸","weaponDescriptions":["12.7mm Guns"],"namesInClass":["笠置山丸","春日山丸","葛城山丸","加丁山丸","东盛丸","日苏丸","丰川丸"],"instancesInClass":["Kasagisan Maru","Kasugasan Maru","Katuragisan Maru","Katyosan Maru","Tosei Maru","Nisso Maru","Toyokawa Maru"]}

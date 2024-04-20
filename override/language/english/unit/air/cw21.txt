@@ -1,0 +1,1 @@
+﻿{"unitName":"CW-21B","weaponDescriptions":["Guns|2x 12.7mm M2机枪","|2x 7.62mm M1919机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

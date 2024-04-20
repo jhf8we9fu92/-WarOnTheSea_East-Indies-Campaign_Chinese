@@ -1,0 +1,1 @@
+﻿{"unitName":"樫野","weaponDescriptions":["25mm Guns"],"namesInClass":["樫野","鸣门丸","日医丸","龙神丸"],"instancesInClass":["Kashino","Naruto Maru","Nichii Maru","Tatsugami Maru"]}

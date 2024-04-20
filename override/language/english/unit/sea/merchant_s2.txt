@@ -1,0 +1,1 @@
+﻿{"unitName":"S2货轮","weaponDescriptions":["Guns|13.5mm Guns","|Troops 275","|Supplies 500","|Engineering 35"],"namesInClass":["鄱阳","云南","平沃","黄浦"],"instancesInClass":["Poyang","Yunnan","Ping Wo","Whang Pu"]}

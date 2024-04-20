@@ -1,0 +1,1 @@
+{"unitName":"英王乔治五世","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["英王乔治五世","威尔士亲王"],"instancesInClass":["King George V","Prince of Wales"]}

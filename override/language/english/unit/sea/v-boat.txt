@@ -1,0 +1,1 @@
+﻿{"unitName":"海豚","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["海豚","狗鱼","鲨鱼","海鲢","鲈鱼","细狗鱼","准鲹"],"instancesInClass":["Porpoise","Pike","Shark","Tarpon","Perch","Pickerel","Permit"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"A5M4 九六式四号舰战","weaponDescriptions":["|2x 7.7mm 九七式机枪","|","Payloads|bomb_ij_60kg"],"payloadDisplayNames":["2x 60千克高爆炸弹","无"],"payloadIndexes":["0","1"],"endurance":[0.9,1]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"北上（1941）","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["北上","大井"],"instancesInClass":["Kitakami","Ōi"]}

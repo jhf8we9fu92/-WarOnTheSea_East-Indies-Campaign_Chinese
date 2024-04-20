@@ -1,0 +1,1 @@
+﻿{"unitName":"川崎型油槽船","weaponDescriptions":[],"namesInClass":["东亚丸","旭东丸","建川丸","东邦丸","黑潮丸"],"instancesInClass":["Tōa Maru","Kyokutō Maru","Tatekawa Maru","Tōhō Maru","Kuroshio Maru"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"B-339D","weaponDescriptions":["Guns|2x 12.7mm M2机枪（机鼻）","|2x 12.7mm M2机枪（机翼）","|","Payloads|bomb_nl_50kg"],"payloadDisplayNames":["2x 50千克高爆炸弹","无"],"payloadIndexes":["0","1"],"endurance":[0.8,1.0]}

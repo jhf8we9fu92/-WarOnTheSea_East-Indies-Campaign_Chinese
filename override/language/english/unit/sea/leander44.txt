@@ -1,0 +1,1 @@
+﻿{"unitName":"利安德","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["利安德","奥赖恩","阿基里斯"],"instancesInClass":["leander","orion","achilles"]}

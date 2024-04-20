@@ -1,0 +1,1 @@
+﻿{"unitName":"S艇","weaponDescriptions":["4\"\/50 Caliber gun"],"namesInClass":["S-36","S-37","S-38","S-39","S-40","S-41"],"instancesInClass":["S-36","S-37","S-38","S-39","S-40","S-41"]}

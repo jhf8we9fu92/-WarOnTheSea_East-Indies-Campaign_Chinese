@@ -1,0 +1,1 @@
+﻿{"unitName":"范·阿姆斯特尔","weaponDescriptions":["40mm Vickers PomPom","12.7mm Guns"],"namesInClass":["扬·范·阿姆斯特尔","彼得·德·比特","埃尔克·杜波依斯"],"instancesInClass":["Jan van Amstel","Pieter de Bitter","Eland Dubois"]}

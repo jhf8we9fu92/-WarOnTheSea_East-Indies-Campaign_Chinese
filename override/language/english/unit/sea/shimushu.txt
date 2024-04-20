@@ -1,0 +1,1 @@
+﻿{"unitName":"占守","weaponDescriptions":["25mm Guns"],"namesInClass":["占守","国后","石垣","八仗"],"instancesInClass":["shimushu","kunashiri","ishigaki","hachijo"]}

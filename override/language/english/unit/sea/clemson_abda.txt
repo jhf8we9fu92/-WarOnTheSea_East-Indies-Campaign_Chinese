@@ -1,0 +1,1 @@
+{"unitName":"克莱门森","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["保罗·琼斯","惠普尔","奥尔登","巴克","约翰·D·爱德华兹","斯图尔特","布尔默","埃德萨尔","帕罗特","佩里","约翰·D·福特","皮尔斯伯里","波普"],"instancesInClass":["Paul Jones","Whipple","Alden","Barker","John D. Edwards","Stewart","Bulmer","Edsall","Parrott","Peary","John D.Ford","Pillsbury","Pope"]}

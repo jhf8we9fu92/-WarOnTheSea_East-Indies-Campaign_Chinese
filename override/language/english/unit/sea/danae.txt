@@ -1,0 +1,1 @@
+﻿{"unitName":"达娜厄","weaponDescriptions":["2pdr QF","20mm Oerlikon"],"namesInClass":["达娜厄","德班","德拉贡","道特莱斯"],"instancesInClass":["danae","durban","dragon","dauntless"]}

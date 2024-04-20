@@ -1,0 +1,1 @@
+﻿{"unitName":"C3型","weaponDescriptions":["20mm Oerlikon Guns","40mm Bofors Guns"],"namesInClass":["Hercules","Anne Arundel","Elizabeth C. Stanton","Mary Lyon","Almaack","Florence Nightingale","Almeria Lykes","Dorothea L. Dix"],"instancesInClass":["Hercules","Anne Arundel","Elizabeth C. Stanton","Mary Lyon","Almaack","Florence Nightingale","Almeria Lykes","Dorothea L. Dix"]}

@@ -1,0 +1,1 @@
+{"unitName":"赫尔墨斯","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["赫尔墨斯"],"instancesInClass":["Hermes"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"千岁","weaponDescriptions":[],"namesInClass":["千岁","千代田"],"instancesInClass":["chitose","chiyoda"]}

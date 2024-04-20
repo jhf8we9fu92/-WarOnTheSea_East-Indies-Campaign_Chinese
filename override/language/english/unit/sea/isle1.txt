@@ -1,0 +1,1 @@
+﻿{"unitName":"莎士比亚","weaponDescriptions":["12.7mm Guns"],"namesInClass":["西莉亚","科利奥兰纳斯","弗吕埃伦","哈姆雷特","霍拉旭","朱丽叶","莱尔特斯","麦克白","奥菲利娅","奥赛罗","罗密欧","罗莎琳德"],"instancesInClass":["Celia","Coriolanus","Fluellen","Hamlet","Horatio","Juliet","Laertes","Macbeth","Ophelia","Othello","Romeo","Rosalind"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"雅各布·范·亨斯科克","weaponDescriptions":["40mm Pom-Pom","20mm Guns"],"namesInClass":["雅各布·范·亨斯科克"],"instancesInClass":["jacob van heemskerck"]}

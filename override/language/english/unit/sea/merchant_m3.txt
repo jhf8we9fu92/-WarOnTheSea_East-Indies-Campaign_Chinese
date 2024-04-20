@@ -1,0 +1,1 @@
+﻿{"unitName":"M3货轮","weaponDescriptions":["20mm Guns"],"namesInClass":["贝里马","达勒姆城堡","艾诺斯","法纳德海德","弗朗茨·费舍尔","兰斯因","马拉坎德","极地酋长"],"instancesInClass":["Berrima","Durham Castle","Aenos","Fanad Head","Franz Fischer","Lancing","Malakand","Polar Chief"]}

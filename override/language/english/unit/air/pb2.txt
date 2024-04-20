@@ -1,0 +1,1 @@
+﻿{"unitName":"PBY KNIL（荷兰）","weaponDescriptions":["Guns|2x .30 M1919机枪","|2x .50 M2机枪","|","Payloads|torpedo_18inMkXII","|bomb_uk_1000lb","|bomb_uk_1000lb_ap","|bomb_nl_200kg","|depthbomb_mark17"],"payloadDisplayNames":["2x 鱼雷","2x 1000磅高爆炸弹","2x 1000磅穿甲炸弹","4x 200千克高爆炸弹","8x 325磅深水炸弹","无"],"payloadIndexes":["0","1","2","3","4","5","6"],"endurance":[0.47,0.6,0.6,0.67,0.52,1]}

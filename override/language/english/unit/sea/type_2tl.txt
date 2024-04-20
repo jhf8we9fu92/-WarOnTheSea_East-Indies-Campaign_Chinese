@@ -1,0 +1,1 @@
+﻿{"unitName":"清丸","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["清丸","新生丸","高知丸","相川丸","东日丸"],"instancesInClass":["Kiyo Maru","Sinsei Maru","Kochi Maru","Aikawa Maru","Toyohi Maru"]}

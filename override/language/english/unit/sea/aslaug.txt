@@ -1,0 +1,1 @@
+﻿{"unitName":"N3型","weaponDescriptions":[],"namesInClass":["阿尔奇巴","阿尔戈拉布","水瓶座","半人马座","仙王座","巨蛇座"],"instancesInClass":["Alchiba","Algorab","Aquarius","Centaurus","Cepheus","Serpens"]}

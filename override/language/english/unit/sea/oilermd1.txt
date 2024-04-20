@@ -1,0 +1,1 @@
+﻿{"unitName":"荷兰中型油轮","weaponDescriptions":["12.7mm Guns"],"namesInClass":["查玛","看门人","翁迪纳","斯利德雷赫特","阿贾克斯"],"instancesInClass":["Chama","Doorman","Ondina","Sliedrecht","Ajax"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"海大6型a","weaponDescriptions":["Type 96 25mm Guns"],"namesInClass":["伊-168","伊-169","伊-171","伊-172"],"instancesInClass":["I-168","I-169","I-171","I-172"]}

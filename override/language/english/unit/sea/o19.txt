@@ -1,0 +1,1 @@
+﻿{"unitName":"O19","weaponDescriptions":["40mm Vickers"],"namesInClass":["O19","O21","O22","O23","O24"],"instancesInClass":["O19","O21","O22","O23","O24"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"Ki-45-Ia 二式复战甲型“屠龙”","weaponDescriptions":["Guns|1x 20mm Ho-3","|2x 12.7mm Ho-103"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

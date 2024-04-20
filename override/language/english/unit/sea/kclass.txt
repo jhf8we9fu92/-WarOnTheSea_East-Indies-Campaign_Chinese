@@ -1,0 +1,1 @@
+﻿{"unitName":"K-VIII","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["K-VIII","K-IX","K-X"],"instancesInClass":["K-VIII","K-IX","K-X"]}

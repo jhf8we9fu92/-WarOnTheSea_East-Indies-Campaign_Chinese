@@ -1,0 +1,1 @@
+﻿{"unitName":"海飓风 Mk.IB","weaponDescriptions":["Guns|8x 7.7mm 勃朗宁机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1.0]}

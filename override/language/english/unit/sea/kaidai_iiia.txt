@@ -1,0 +1,1 @@
+﻿{"unitName":"海大3型a/b","weaponDescriptions":["Type 96 25mm Guns"],"namesInClass":["伊-53","伊-54","伊-55","伊-58","伊-56","伊-57","伊-59","伊-60"],"instancesInClass":["I-53","I-54","I-55","I-58","I-56","I-57","I-59","I-60"]}

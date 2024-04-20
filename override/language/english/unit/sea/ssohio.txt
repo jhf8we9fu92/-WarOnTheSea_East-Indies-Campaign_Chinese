@@ -1,0 +1,1 @@
+﻿{"unitName":"RFA 戴尔","weaponDescriptions":["20mm Oerlikon Guns"],"namesInClass":["阿比代尔","奥尔德斯代尔","阿戴尔","毕夏普代尔","布鲁姆代尔","塞达代尔","登比代尔","德文特代尔","露代尔","丁格尔代尔"],"instancesInClass":["Abbeydale","Aldersdale","Arndale","Bishopdale","Broomdale","Cederdale","Denbydale","Derwentdale","Dewdale","Dingledale"]}

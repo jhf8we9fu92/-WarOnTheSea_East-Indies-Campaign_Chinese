@@ -1,0 +1,1 @@
+﻿{"unitName":"郡（肯特）","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["澳大利亚","堪培拉"],"instancesInClass":["Australia","Canberra"]}

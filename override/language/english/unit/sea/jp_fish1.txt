@@ -1,0 +1,1 @@
+﻿{"unitName":"38m","weaponDescriptions":["12.7mm Guns"],"namesInClass":["FB-1","FB-2","FB-3","FB-4","FB-5","FB-6"],"instancesInClass":["FB-1","FB-2","FB-3","FB-4","FB-5","FB-6"]}

@@ -1,0 +1,1 @@
+{"unitName":"絮库夫","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["絮库夫"],"instancesInClass":["Surcouf"]}

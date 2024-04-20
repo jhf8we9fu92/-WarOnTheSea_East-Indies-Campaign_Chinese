@@ -1,0 +1,1 @@
+{"unitName":"查尔德斯","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["查尔德斯","威廉·B·普雷斯顿"],"instancesInClass":["Childs","William B. Preston"]}

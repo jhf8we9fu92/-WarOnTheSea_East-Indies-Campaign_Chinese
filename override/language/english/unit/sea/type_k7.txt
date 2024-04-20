@@ -1,0 +1,1 @@
+﻿{"unitName":"CH-4","weaponDescriptions":["13.2mm Guns"],"namesInClass":["CH-7","CH-8","CH-4","CH-5","CH-11","CH-12","CH-10","CH-9","CH-6"],"instancesInClass":["CH-7","CH-8","CH-4","CH-5","CH-11","CH-12","CH-10","CH-9","CH-6"]}

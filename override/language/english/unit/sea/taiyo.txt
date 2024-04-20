@@ -1,0 +1,1 @@
+{"unitName":"大鹰","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["大鹰","苍鹰","冲鹰"],"instancesInClass":["taiyō","un'yō","chūyō"]}

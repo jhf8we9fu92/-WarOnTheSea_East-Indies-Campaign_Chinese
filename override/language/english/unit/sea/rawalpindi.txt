@@ -1,0 +1,1 @@
+{"unitName":"拉瓦尔品第","weaponDescriptions":["20mm Olerikon Guns","Machine Guns"],"namesInClass":["兰契","兰普拉","拉杰普塔纳"],"instancesInClass":["Ranchi","Ranpura","Rajputana"]}﻿﻿

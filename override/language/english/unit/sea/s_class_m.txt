@@ -1,0 +1,1 @@
+{"unitName":"海军部S级反潜改装型","weaponDescriptions":["40mm Pom-Pom","20mm Oerlikon"],"namesInClass":["特内多斯","要塞"],"instancesInClass":["tenedos","stronghold"]}﻿﻿

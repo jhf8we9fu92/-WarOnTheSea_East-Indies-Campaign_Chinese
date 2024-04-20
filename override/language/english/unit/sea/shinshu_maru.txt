@@ -1,0 +1,1 @@
+﻿{"unitName":"新洲丸","weaponDescriptions":[],"namesInClass":["新洲丸"],"instancesInClass":["Shinshu Maru"]}

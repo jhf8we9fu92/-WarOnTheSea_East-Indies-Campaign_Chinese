@@ -1,0 +1,1 @@
+﻿{"unitName":"德·鲁伊","weaponDescriptions":["40mm Bofors Guns","12.7mm Guns"],"namesInClass":["德·鲁伊"],"instancesInClass":["deruyter"]}

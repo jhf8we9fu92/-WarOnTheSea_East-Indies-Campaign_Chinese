@@ -1,0 +1,1 @@
+﻿{"unitName":"K-XIV","weaponDescriptions":["40mm Vickers"],"namesInClass":["K-XIV","K-XV","K-XVI","K-XVIII"],"instancesInClass":["K-XIV","K-XV","K-XVI","K-XVIII"]}

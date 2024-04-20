@@ -1,0 +1,1 @@
+﻿{"unitName":"T级第一组","weaponDescriptions":["20mm Oerlikon Cannon",".303 Machine Guns"],"namesInClass":["逃避"],"instancesInClass":["Truant"]}

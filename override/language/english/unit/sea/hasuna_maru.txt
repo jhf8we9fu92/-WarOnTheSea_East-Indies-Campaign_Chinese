@@ -1,0 +1,1 @@
+﻿{"unitName":"莲花丸","weaponDescriptions":["12.7mm Guns"],"namesInClass":["莲花丸","荣誉丸","州埼","立花丸","小仓丸","第一丸","昭洋丸","共同丸"],"instancesInClass":["Hasuna Maru","Eiyo Maru","Sunosaki","Tatibana Maru","Ogura Maru","DaiIti Maru","Syoyo Maru","Kyodo Maru"]}

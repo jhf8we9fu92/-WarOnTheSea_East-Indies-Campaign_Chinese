@@ -1,0 +1,1 @@
+﻿{"unitName":"海象 Mk.I","weaponDescriptions":["Guns|2x 7.7mm 维克斯K型机枪","|","Payloads|bomb_us_250lb","|depthbomb_250lb_mk11"],"payloadDisplayNames":["2x 250磅深水炸弹","2x 250磅高爆炸弹","无"],"payloadIndexes":["0","1","2"],"endurance":[0.75,0.75,1]}

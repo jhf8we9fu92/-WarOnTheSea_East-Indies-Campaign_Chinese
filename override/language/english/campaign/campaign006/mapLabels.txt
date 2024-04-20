@@ -1,0 +1,10 @@
+﻿{"text":"苏门答腊","size":0.05,"position":{"x":-0.31,"y":0.06},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"爪哇","size":0.045,"position":{"x":-0.1,"y":-0.234},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"苏拉威西","size":0.03,"position":{"x":0.12,"y":0.02},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"印度洋","size":0.05,"position":{"x":-0.14,"y":-0.40},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}
+{"text":"澳大利亚","size":0.04,"position":{"x":0.41,"y":-0.44},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"婆罗洲","size":0.05,"position":{"x":-0.05,"y":0.165},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"爪哇海","size":0.04,"position":{"x":-0.08,"y":-0.105},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}
+{"text":"巽他海峡","size":0.01,"position":{"x":-0.234,"y":-0.168},"shadow":false,"italic":true,"color":{"r":128,"g":255,"b":255,"a":200}}
+{"text":"棉兰老","size":0.03,"position":{"x":0.20,"y":0.47},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}
+{"text":"马来亚","size":0.05,"position":{"x":-0.324,"y":0.35},"shadow":true,"italic":false,"color":{"r":255,"g":255,"b":255,"a":255}}

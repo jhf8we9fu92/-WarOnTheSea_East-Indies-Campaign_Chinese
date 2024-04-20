@@ -1,0 +1,1 @@
+﻿{"unitName":"黑姬丸","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["黑姬丸","大南丸","东日丸","达世丸","大山丸","男鹿山丸","大津山丸","山本丸"],"instancesInClass":["Kurohime Maru","Dainan Maru","Toyohi Maru","Tatsuyo Maru","Oesan Maru","Ojikasan Maru","Ohtsusan Maru","Yamazono Maru"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"波罗代克","weaponDescriptions":[],"namesInClass":["波罗代克","贝姆斯特代克","宾南代克","布尔格代克","布利肯代克","比尔德代克","博什代克","布里代克"],"instancesInClass":["Baltic","Beemsterdijk","Binnendijk","Burgerdyk","Blijdendyk","Bilderdyk","Boschdyk","Breedyk"]}

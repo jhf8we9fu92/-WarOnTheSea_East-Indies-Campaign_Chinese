@@ -1,0 +1,1 @@
+﻿{"unitName":"鸭川丸","weaponDescriptions":["Type 93 13.2mm Guns"],"namesInClass":["鸭川丸","光德丸","鸣门丸","天日丸","龙神丸","阿里山丸","爱宕丸","江户川丸"],"instancesInClass":["Kamogawa Maru","Kotoku Maru","Naruto Maru","Nichi Maru","Tatsugami Maru","Arisan Maru","Atago Maru","Edogawa Maru"]}

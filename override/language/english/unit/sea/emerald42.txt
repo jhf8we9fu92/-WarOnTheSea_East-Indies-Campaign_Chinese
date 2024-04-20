@@ -1,0 +1,1 @@
+﻿{"unitName":"翡翠","weaponDescriptions":["40mm PomPoms","12.7mm Guns"],"namesInClass":["翡翠"],"instancesInClass":["emerald"]}

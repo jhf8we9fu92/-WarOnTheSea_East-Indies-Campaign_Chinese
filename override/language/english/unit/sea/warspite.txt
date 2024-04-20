@@ -1,0 +1,1 @@
+{"unitName":"伊丽莎白女王","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["厌战"],"instancesInClass":["Warspite"]}

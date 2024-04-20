@@ -1,0 +1,1 @@
+﻿{"unitName":"日本丸","weaponDescriptions":["Type 93 13.2mm Guns"],"namesInClass":["日本丸","东映丸","健阳丸","神国丸"],"instancesInClass":["Nippon Maru","Tōei Maru","Ken'yō Maru","Shinkoku Maru"]}

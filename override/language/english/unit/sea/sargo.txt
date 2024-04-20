@@ -1,0 +1,1 @@
+﻿{"unitName":"重牙鲷","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["重牙鲷","秋刀鱼","矛鱼","杜父鱼","旗鱼","海龙","海狮","帆鳍鱼","狼鱼","剑鱼"],"instancesInClass":["Sargo","Saury","Spearfish","Sculpin","Sailfish","Seadragon","Sealion","Searaven","Seawolf","Swordfish"]}

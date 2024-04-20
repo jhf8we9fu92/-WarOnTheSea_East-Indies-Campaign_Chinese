@@ -1,0 +1,1 @@
+﻿{"unitName":"哓","namesInClass":["哓","响","雷","电"],"instancesInClass":["akatsuki","hibiki","ikazuchi","inazuma"]}

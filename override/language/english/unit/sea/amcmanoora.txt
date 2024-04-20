@@ -1,0 +1,1 @@
+﻿{"unitName":"马努拉","weaponDescriptions":["20mm Oerlikon Guns"],"namesInClass":["卡宁布拉", "马努拉", "威斯特拉利亚"],"instancesInClass":["Kanimbla", "Manoora", "Westralia"]}

@@ -1,0 +1,1 @@
+﻿{"nextAction":"SUMMARY","header":"失败","content":"<size=18><b><DATE></b></size>\n敌军的兵力和物资补给使日本得以在东印度群岛维持其存在，这对盟军在该地区的行动造成了沉重打击，随着日本帝国的不断扩张，盟军被迫向西边和南方撤退。一旦欧洲战事结束，盟军是否会尝试在太平洋进行更多的进攻行动，亦或与日本达成和平协议，尚待观察...","imagePath":"campaign/image/defeat.jpg","musicIndex":12}

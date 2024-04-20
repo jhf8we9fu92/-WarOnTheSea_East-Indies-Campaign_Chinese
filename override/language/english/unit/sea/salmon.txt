@@ -1,0 +1,1 @@
+﻿{"unitName":"鲑鱼","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["鲑鱼","海豹","鲷鱼","黄貂鱼","鲟鱼","鲣鱼"],"instancesInClass":["Salmon","Seal","Snapper","Stingray","Sturgeon","Skipjack"]}

@@ -1,0 +1,29 @@
+﻿<b>
+</b>
+<b><size=18>荷属东印度群岛战役 - 离心攻势</size></b>
+
+<b>1941 年 12 月 24 日</b>
+荷属东印度群岛之战（离心攻势）已经开始，我们的首要目标是夺取 <color=#caa809>新加坡</color>，然后进一步攻占爪哇。
+一旦完成目标，远程轰炸机就可以自由攻击爪哇和澳大利亚之间的盟军补给线，并为日本帝国海军提供空中掩护，以维持其在东南亚的存在。 
+利用 <color=#caa809>古晋</color> 和 <color=#caa809>达沃</color> 作为你在婆罗洲和菲律宾的前沿基地，你的命令是首先攻击 <color=#caa809>新加坡</color>，占领并在那里建造一个主要机场，清除苏门答腊、爪哇和婆罗洲的任何敌军。但请注意，在皇帝失去耐心之前取得进展的时间有限，特别是考虑到敌人已经在 <color=#caa809>泗水</color>加强了他们的基地。
+
+你必须：
+1) 在<color=#caa809>泗水</color>建造一座 5 级机场。
+
+2) 夺取控制：
+   - <color=#caa809>泗水</color>
+   - <color=#caa809>新加坡</color>
+   - <color=#caa809>巨港</color>
+   - <color=#caa809>巴达维亚</color>
+   - <color=#caa809>望加锡</color>
+   - <color=#caa809>马辰</color>
+   - <color=#caa809>登巴萨</color>
+   - <color=#caa809>巴厘巴板</color>
+
+<color=#09a0ca>特别感谢 Apollonir 增加了以下 "Pacific Mod" 自定义的机械，飞机以及基地补给花费：</color>
+- 每艘船只补充弹药需要 10 <color=#ca0909>燃料</color> 和 5 <color=#e8e120>工程器械</color> 以及 50 <color=#50ca09>补给</color>；
+- 每只舰队补充飞机需要 2 <color=#ca0909>燃料</color> 和 2 <color=#e8e120>工程器械</color> 以及 10 <color=#50ca09>补给</color>；
+- 机场补充飞机需要 2 <color=#ca0909>燃料</color> 和 2 <color=#e8e120>工程器械</color> 以及 10 <color=#50ca09>补给</color>；
+- 货轮和油轮以每批 10 单位卸载 <color=#ca0909>燃料</color>/<color=#e8e120>工程器械</color>；
+- 海上航线将于击沉 200 艘敌舰后畅通；
+- 确保基地拥有补给、工程器械和燃料以支持补充飞机。

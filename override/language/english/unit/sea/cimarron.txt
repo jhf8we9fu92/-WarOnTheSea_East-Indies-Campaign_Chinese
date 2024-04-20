@@ -1,0 +1,1 @@
+﻿﻿{"unitName":"西马龙","weaponDescriptions":["20mm Oerlikon Guns"],"namesInClass":["西马龙","普拉特","萨宾","萨拉莫尼","卡斯卡斯基亚","希蒙","瓜达卢佩","舍南戈"],"instancesInClass":["Cimarron","Platte","Sabine","Salamonie","Kaskaskia","Chemung","Guadalupe","Chenango"]}

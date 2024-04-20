@@ -1,0 +1,1 @@
+{"unitName":"J & K","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["朱庇特","标枪","金伯利"],"instancesInClass":["Jupiter","Javelin","Kimberly"]}

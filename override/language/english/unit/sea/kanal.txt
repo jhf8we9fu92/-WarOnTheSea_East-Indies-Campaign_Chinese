@@ -1,0 +1,1 @@
+﻿{"unitName":"卡纳尔","weaponDescriptions":[],"namesInClass":["卡纳尔","克里柯克","米尔科武尔","希菲斯托斯","马里斯顿","克里斯平","克莱门特","菲兰特"],"instancesInClass":["Kanal","Creekirk","Milcovul","Hyphaestos","Mariston","Crispin","Clement","Philante"]}

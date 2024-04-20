@@ -1,0 +1,1 @@
+﻿{"unitName":"Ar 196 A-3","weaponDescriptions":["Guns|1x 7.92mm MG 17机枪","|2x 20mm MG FF/M 机炮","|1x 7.92mm MG 15 机枪","|","Payloads|depthbomb_mark17","|bomb_ge_50kg"],"payloadDisplayNames":["2x 深水炸弹","2x 50千克高爆炸弹","无"],"payloadIndexes":["0","1","2"],"endurance":[0.8,0.8,1]}

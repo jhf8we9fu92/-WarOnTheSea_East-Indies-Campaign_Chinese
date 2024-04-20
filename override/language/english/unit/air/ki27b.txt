@@ -1,0 +1,1 @@
+﻿{"unitName":"Ki-27b 九七舰战乙型","weaponDescriptions":["Guns|2x 7.7mm 八九式机枪","|","Payloads|jp_twindtbbs_ki27","|bomb_ij_25kg"],"payloadDisplayNames":["副油箱","4x 25千克高爆炸弹","无"],"payloadIndexes":["0","1","2"],"endurance":[2.7,0.8,1]}
