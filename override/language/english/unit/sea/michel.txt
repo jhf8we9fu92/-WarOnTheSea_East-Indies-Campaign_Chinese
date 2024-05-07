@@ -1,1 +1,1 @@
-{"unitName":"米歇尔","weaponDescriptions":["37mm Guns","20mm Guns"],"namesInClass":["米歇尔"],"instancesInClass":["michel"]}﻿﻿
+﻿{"unitName":"米歇尔","weaponDescriptions":["37mm Guns","20mm Guns"],"namesInClass":["米歇尔"],"instancesInClass":["michel"]}
